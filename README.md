@@ -102,7 +102,7 @@ product-api/
 │   └── productRoutes.js      # API Routes
 │── uploads/                  # Temporary CSV uploads
 │── .env                      # Environment variables
-│── app.js                 # Main entry point
+│── app.js                    # Main entry point
 │── package.json              # Dependencies
 │── README.md                 # Documentation
 ```
